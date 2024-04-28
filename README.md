@@ -120,6 +120,7 @@
 	<li>RandomFloat - Returns random float based on input value. UV is default input value.</li>
 	<li>RandomFloatImproved - Improved version of classic random function. Classic random can produce artifacts. This one - doesn't.</li>
 	<li>RandomGoldRatio - Random float based on golden ratio</li>
+	<li>RandomFloat4D - Returns random float value based on 4D input vector</li>
   </ul>
   <li>Coordinates transformation:</li>
   <ul>
